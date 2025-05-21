@@ -1,4 +1,5 @@
 # Crypto & Stock Tracker Dashboard 📈
+The project is live on https://ezassettrack.netlify.app/
 
 A modern, real-time dashboard for tracking cryptocurrency and stock market data, built with React and TypeScript.
 
